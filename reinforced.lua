@@ -59,7 +59,7 @@ nodecore.register_craft({
 		},
 		{
 			y = -1,
-			match = "nc_lode:frame_annealed",
+			match = "nc_lode:form",
 			replace = modname .. ":glass_hard"
 		}
 	}
